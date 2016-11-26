@@ -1,8 +1,8 @@
 //Lil' Blowie an ESP8266, 8 bank, wifi fireworks launcher.
 #include <ESP8266WiFi.h>
 
-const char* ssid = "yourssid";
-const char* password = "yourpassword";
+const char* ssid = "a";
+const char* password = "a";
 
 WiFiServer server(80);
 
